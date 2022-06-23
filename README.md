@@ -1,2 +1,2 @@
 # player-visualizator
-Simple visualizatro for media player
+Simple visualizator for media player
